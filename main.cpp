@@ -1,5 +1,6 @@
 #include <iostream>
 #include <cmath>
+#include <cstdlib>
 #include "Clausen.h"
 
 int main( int argc, char *argv[] )
